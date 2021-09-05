@@ -1,6 +1,8 @@
 
 
 # Hola, I am Omkar Ghongade 👋
+[![Github](https://img.shields.io/github/followers/Omkar-Ghongade?label=Follow&style=social)](https://github.com/Omkar-Ghongade)
+
 
 
 - 🔭 I’m currently working on Android Development .
@@ -30,7 +32,6 @@
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
-
+![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade) 
 
 
