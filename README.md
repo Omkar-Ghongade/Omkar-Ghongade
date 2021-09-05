@@ -10,7 +10,6 @@
   - Codechef - [rexom](https://www.codechef.com/users/rexom)
   - Instagram - [_.kroma._](https://www.instagram.com/_.kroma._/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 ## 🧰 Languages and Tools:
@@ -20,6 +19,11 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=Omkar-Ghongade&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 
