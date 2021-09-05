@@ -24,10 +24,18 @@ omkarsubhashghongade21@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple
 <p align="center">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" alt="Android-Studio" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg" alt="Android" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="Intellij" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom" height="40" style="vertical-align:top; margin:4px">
+
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+ 
 </p>
 
 #
