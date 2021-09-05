@@ -8,7 +8,7 @@
 ## ✉️ Find Me On
   - Linkedin - [Omkar Ghongade](https://www.linkedin.com/in/omkar-ghongade-723247214/)
   - Codechef - [rexom](https://www.codechef.com/users/rexom)
-  - Instagram - [_.kroma._](https://www.instagram.com/_.kroma._/)
+  - Instagram - [__.kroma.__](https://www.instagram.com/_.kroma._/)
 
 
 
