@@ -1,3 +1,5 @@
+
+
 # Hola, I am Omkar Ghongade 👋
 
 
@@ -25,5 +27,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghongade&show_icons=true&theme=radical)
 
 
+
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade)
 
 
