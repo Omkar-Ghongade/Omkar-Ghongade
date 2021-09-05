@@ -1,7 +1,8 @@
 
 
 # Hola, I am Omkar Ghongade 👋
-[![Github](https://img.shields.io/github/followers/Omkar-Ghongade?label=Follow&style=social)](https://github.com/Omkar-Ghongade)
+[![Github](https://img.shields.io/github/followers/Omkar-Ghongade?label=Follow&style=social)](https://github.com/Omkar-Ghongade)  ![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade) 
+
 
 
 
@@ -12,7 +13,7 @@
 ## ✉️ Find Me On
   - Linkedin - [Omkar Ghongade](https://www.linkedin.com/in/omkar-ghongade-723247214/)
   - Codechef - [rexom](https://www.codechef.com/users/rexom)
-  - Instagram - [__.kroma.__](https://www.instagram.com/_.kroma._/)
+  - Instagram - [kroma](https://www.instagram.com/_.kroma._/)
 
 
 
@@ -32,6 +33,5 @@
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade) 
 
 
