@@ -1,6 +1,6 @@
 
 
-# Hola, My Name is an Anagram of KROMA 👋
+# Hola, I am an Anagram of KROMA 👋
 [![Github](https://img.shields.io/github/followers/Omkar-Ghongade?label=Follow&style=social)](https://github.com/Omkar-Ghongade)  ![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade) 
 
 
