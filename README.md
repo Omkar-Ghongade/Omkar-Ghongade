@@ -9,14 +9,15 @@
 - 🔭 I’m currently working on Android Development .
 - 🌱 I’m currently learning Android Development & Advance Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on various projects which include Data Structures and Algorithm & Android Development .
--
+
+
 
 ## ✉️ Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/omkar-ghongade-723247214/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
  <a href="mailto:
 omkarsubhashghongade21@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
- <a href="https://www.instagram.com/_.kroma._/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/_.kroma._/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 
