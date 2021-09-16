@@ -41,7 +41,6 @@ omkarsubhashghongade21@gmail.com"> <img src="https://camo.githubusercontent.com/
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Ghongade&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghongade&show_icons=true&theme=radical)
 
