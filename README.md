@@ -1,53 +1,109 @@
 
 
-# Hola, I am an Anagram of KROMA 👋
-[![Github](https://img.shields.io/github/followers/Omkar-Ghongade?label=Follow&style=social)](https://github.com/Omkar-Ghongade)  ![](https://visitor-badge.laobi.icu/badge?page_id=Omkar-Ghongade.Omkar-Ghongade) 
 
 
 
+## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I am Omkar Ghongade !
+<br>
 
-- 🔭 I’m currently working on an Developing an Expense Tracker App .
-- 🌱 I’m currently learning Android Development & Advance Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on various projects which include Data Structures and Algorithm & Android Development .
-
-
-
-## ✉️ Find me on:
-<p align="center">
- <a href="https://www.linkedin.com/in/omkar-ghongade-723247214/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
- <a href="mailto:
-omkarsubhashghongade21@gmail.com"> <img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
- <a href="https://www.instagram.com/_.kroma._/" target="_blank" rel="noopener noreferrer"> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <p>
+<img src="https://img.shields.io/badge/Age-18-blue" />
+<img src="https://img.shields.io/badge/Lives-India-success" />
+<img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%26%20Marathi-brightgreen" />
 </p>
 
 
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/android-studio.svg" alt="Android-Studio" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/android.svg" alt="Android" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="Intellij" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" alt="VSCode" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/atom.svg" alt="Atom" height="40" style="vertical-align:top; margin:4px">
+<hr>
+<h3>Competitive Coder | Data Scientist | Android Developer | Backend Developer</h3>
 
- <img src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" alt="Git" height="40" style="vertical-align:top; margin:4px">
+
+<p>
+<a href="https://www.linkedin.com/in/omkar-ghongade/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="moitbytes" height="40" width="40" /></a> &nbsp;
+<a href="https://www.codechef.com/users/rexom" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="moitbytes_1" height="40" width="40" /></a>  &nbsp;
+<a href="https://codeforces.com/profile/omkar._.ghongade" target="blank"><img align="center" src="https://1.bp.blogspot.com/-8skaizO2B04/Wnw6rqD8qlI/AAAAAAAABRA/dXqVYGqjZ2Eeeo3SV-A_9cGMtgQ7LhomwCPcBGAYYCw/s1600/codeforce.png" alt="moitbytes" height="40" width="40" /></a>  &nbsp;  
+<a href="https://twitter.com/omkar_ghongade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="moitbytes" height="40" width="40" /></a> &nbsp; &nbsp;
+ <a href = "mailto: omkarsubhashghongade21@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40" width="50" /></a>
+</p>
+</p>
+
+<hr>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me !*** 
+
+<p>
+  <em>
+    Hello, I am Omkar Ghongade an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Being an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
+</p>
  
+<br>
+ 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ 
+- 🔭 I’m currently working on development of native apps using Android Studio
+
+- 🌱 I’m interested in Data Analytics and am working on several projects to sharpen my analytical skills.
+
+- 👯 I’m looking to collaborate with people of similar mind and work on some projects. 
+
+- 💬 Ask me anything about Android, Data Structures, Algorithms, Database, and Backend related stuff. 
+ 
+- 😄 Pronouns: His/He
+<br>
+<hr>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack !***  
+
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=5C3EE8)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=5C3EE8)&nbsp;
+![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=Scipy&logoColor=5C3EE8)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=FFCA28)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=fc6b03)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=03cffc)&nbsp;
+
+<hr>
+
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=omkar-ghongade&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-ghongade&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=omkar-ghongade&theme=chartreuse-dark"></p>
+
+<hr>
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bomkar-ghongade%7D/count.svg" alt="visitor badge"/></p>
+
+<hr>
+
+### :link: &nbsp;Connect with me
+
+<p align="center">
+<a target="blank" href="https://github.com/omkar-ghongade"><img src="https://img.shields.io/badge/-OmkarGhongade.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a target="blank" href="https://linkedin.com/in/omkar-ghongade"><img src="https://img.shields.io/badge/-Omkar%20Ghongade-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a target="blank" href="mailto:omkarsubhashghongade21@gmail.com"><img src="https://img.shields.io/badge/-omkarsubhashghongade21@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a target="blank" href="https://www.codechef.com/users/rexom"><img src="https://img.shields.io/badge/-rexom-000000?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a target="blank" href="https://twitter.com/omkar_ghongade"><img src="https://img.shields.io/badge/-Omkar%20Ghongade-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
-#
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar-Ghongade&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghongade&show_icons=true&theme=radical)
-
-
-
-
 
 
 
