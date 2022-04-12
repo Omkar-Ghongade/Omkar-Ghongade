@@ -14,11 +14,11 @@
 
 
 <hr>
-<h3>Competitive Coder | Data Scientist | Android Developer | Backend Developer</h3>
+<h3>Competitive Coder | Data Scientist | Android Developer </h3>
 
 
 <p>
-<a href="https://www.linkedin.com/in/omkar-ghongade/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="moitbytes" height="40" width="40" /></a> &nbsp;
+&nbsp;
 <a href="https://www.codechef.com/users/rexom" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="moitbytes_1" height="40" width="40" /></a>  &nbsp;
 <a href="https://codeforces.com/profile/omkar._.ghongade" target="blank"><img align="center" src="https://1.bp.blogspot.com/-8skaizO2B04/Wnw6rqD8qlI/AAAAAAAABRA/dXqVYGqjZ2Eeeo3SV-A_9cGMtgQ7LhomwCPcBGAYYCw/s1600/codeforce.png" alt="moitbytes" height="40" width="40" /></a>  &nbsp;  
 <a href="https://twitter.com/omkar_ghongade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="moitbytes" height="40" width="40" /></a> &nbsp; &nbsp;
