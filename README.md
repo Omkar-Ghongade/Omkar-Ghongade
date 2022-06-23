@@ -3,7 +3,7 @@
 
 
 
-## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px"> I am Omkar Ghongade !
+## Hi, <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Hi.gif" width="30px" height="30px"> I am Omkar Ghongade !
 <br>
 
  <p>
@@ -28,12 +28,12 @@
 
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me !*** 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***About me !***
 
 <p>
   <em>
     Hello, I am Omkar Ghongade an <b> undergraduate student </b> from <a target="blank" href="https://srmap.edu.in/"> <b>SRM University AP</b>, Andhra Pradesh</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Being an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
+    <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/moit-bytes/Profile/main/Developer.gif" width="30px" height="30px"> and a <b>Competitive Coder.</b>&nbsp I am a <b>Data Scientist</b> who is keen to find patterns that are wisely hidden in the data. Being an <b>Android Developer</b>, I like to develop some awesome apps that can solve real world issues. Along with this, I also love to develop <b>backend services</b> and provide database related assistance to several projects. 
 </p>
  
 <br>
@@ -52,7 +52,7 @@
 <br>
 <hr>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack !***  
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp;***Tech Stack !***
 
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
