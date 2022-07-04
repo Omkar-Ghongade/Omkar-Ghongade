@@ -24,7 +24,6 @@
 <a href="https://twitter.com/omkar_ghongade" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="moitbytes" height="40" width="40" /></a> &nbsp; &nbsp;
  <a href = "mailto: omkarsubhashghongade21@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40" width="50" /></a>
 </p>
-</p>
 
 <hr>
 
